@@ -48,7 +48,7 @@ _DATA ends
 ; 其中包括常量定义。这些常量在程序运行过程中是不能更改的。 应用程序并不需要以上所有的三个"分段"， 可以根据需要进行定义。
 .CONST
 
-	;strVaxNameA				db	"C:\Users\lvtx\AppData\Local\Microsoft\VisualStudio\16.0_fff0df99\Extensions\gw1vs44c.wba\VA_X", 0
+	;strVaxNameA				db	"C:\Users\yuxuan.ling\AppData\Local\Microsoft\VisualStudio\16.0_66b6d503\Extensions\yyl2yzqy.y1l\VA_X", 0
 	strVaxName				db	"VA_X", 0
 	strKernel					db	"kernel32.dll", 0
 	strLoadLibrary			db	"LoadLibraryA",0
